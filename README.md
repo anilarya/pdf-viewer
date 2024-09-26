@@ -1,4 +1,4 @@
-# Omnipresent JS Book as PDF Viewer
+# Omnipresent JS Book as PDF Viewer NA
 PDF viewer with flip-book interface integration to allow read files flipping pages like a book.
 
 ## Info
